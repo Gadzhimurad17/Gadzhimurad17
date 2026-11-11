@@ -5,7 +5,7 @@
 
 ## <h3> &nbsp;About Me</h3>
 - &nbsp;BMSTU student (Computer Science and Control Systems, class of 2028)
-- &nbsp;By team: I write driver and filtering code in **C++** / **ROS 2** for the autonomous Formula Student race car
+- &nbsp;By team: I write code in **C++** / **ROS 2** for the autonomous Formula Student race car
 - &nbsp;By project: I build backends and microservices in **Go**, with gRPC, PostgreSQL, Redis and Docker
 - &nbsp;Right now: building **TaskManager**, a desktop task tracker in Qt, and digging deeper into state estimation
 - &nbsp;Telegram [@pendulum_swing](https://t.me/pendulum_swing) · email enrikeluis36@gmail.com
